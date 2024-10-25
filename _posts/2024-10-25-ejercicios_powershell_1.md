@@ -2,7 +2,7 @@
 layout: 1
 title: Ejercicios de Powershell
 ---
-## Ejercicios básicos
+## Ejercicios basicos
 Proximámente...
 
 
